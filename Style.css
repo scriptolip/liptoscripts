@@ -1,0 +1,25 @@
+body{
+
+background-color: cadetblue;
+font-family: Arial;
+    line-height: 1;
+    font-size: 14px;
+}
+
+ .card {
+    width:  500px;
+margin:  60px  auto;
+     padding:  0px;
+
+}
+
+
+                 .card-subtitle {
+                        font-size: 14px;
+                        color:  #315fc7;
+}
+.card-list {
+    padding-left:  0px;
+    list-style-position: center;
+
+}
